@@ -18,7 +18,7 @@ while(answer == 'y' or answer == 'Y'):
     '''Aqui llamamos a la función apodada como registro (registrar_sql) que se encargará de agregarle una nueva lista a fixture (registro(cont)) 
     con mas datos digitados por el usuario (tantos como el desee poner en la lista) '''
     fixture.append(registro(cont))
-    answer = input(f'\n Le gustaría continuar digitando listas señor/a {nombre_usuario} (Y/N)? ')
+    answer = input(f'\n\t Le gustaría continuar digitando listas señor/a {nombre_usuario} (Y/N)? ')
     while(answer != 'Y' and answer != 'y' and answer != 'n' and answer != 'N'):
         answer = input('\t Haga usted el enorme favor de digitar correctamente su respuesta, no sea malo 👺, (Y/N): ')
 
@@ -56,6 +56,6 @@ cont_cuarto = 0
 print(f'\n\t Resultados de las listas modificadas para el señor/a {nombre_usuario}')
 for i in fixt_dos:
     cont_cuarto += 1
-    print(f'\n\t Elemento numero {cont_cuarto} de la lista modificada: {i}')
+    print(f'\n Elemento numero {cont_cuarto} de la lista modificada: {i}')
     
 print('\n')
