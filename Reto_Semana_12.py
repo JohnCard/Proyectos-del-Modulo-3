@@ -49,4 +49,4 @@ for año in lista_años:
 # estará el rango disponible de ventas 
 plt.plot(lista_años,cifras_años,color='g')
 plt.title(f'Ventas del {año_uno} al {año_dos}')
-plt.show()
+plt.show() 
