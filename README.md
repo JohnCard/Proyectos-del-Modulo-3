@@ -1,2 +1,3 @@
 # Proyectos-del-Modulo-3
-Retos, tareas, experimentos y proyectos para el modulo 3 en Fundamentos Python con Ucamp
+Retos, tareas, experimentos y proyectos para el modulo 3 en Fundamentos Python con Ucamp:
+Hasta ahora lo mas destacable fue el poder aprender a programar distintas graficas que representen los datos a nuestro gusto, me pareció una excelente manera de manipular los datos, yaque de hecho puede revolucionar completamente el como un programa muestra sus valoraciones ante un usuario siempre que sean solicitadas, tomando en cuenta claro valoraciones de otros usuarios distintos que hayan usado un programa en especifco dando a entender sobre su opinión o la experiencia que les haya dejado su funcionamiento 😁.
